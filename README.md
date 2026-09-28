@@ -1,10 +1,13 @@
-# \#GitHub Branching Lab - Main Title
+
+
+#GitHub Branching Lab - Main Title
+
 
 GitHub branching and pull request lab exercise
 
 
 
-\## About This Project
+## About This Project
 
 This repository was created as part of a GitHub branching and pull requests lab exercise
 
