@@ -1,4 +1,4 @@
-# gitHub-branching-lab
+# \#GitHub Branching Lab - Main Title
 
 GitHub branching and pull request lab exercise
 
